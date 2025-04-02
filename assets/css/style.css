@@ -13126,4 +13126,13 @@ input[type="range"]::-moz-range-thumb {
     bottom: 100px;
     right: 10px;
   }
+  
+}
+@media (max-width: 790px) {
+  .glassy-card {
+   
+    width: 90vw;
+  
+}
+  
 }
